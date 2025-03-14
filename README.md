@@ -1,6 +1,8 @@
 # Calculadora Simples
 
-Este é um projeto de calculadora desenvolvido para praticar funcionalidades do **JavaScript**, incluindo manipulação do DOM, eventos e execução de cálculos matemáticos.
+Fiz esse famoso projeto de calculadora para praticar as funcionalidades do **JavaScript**, incluindo manipulação do DOM, eventos e execução de cálculos matemáticos.
+
+<img src="./assets/images/calculator.png" width="30%">
 
 ## Tecnologias Utilizadas
 
@@ -14,14 +16,11 @@ Este é um projeto de calculadora desenvolvido para praticar funcionalidades do 
 - Execução de cálculos matemáticos
 - Botão de limpeza do display
 - Interface responsiva
+- Mensagem de Erro caso a operaçao nao seja digitada corretamente (ex: 1+=)
 
 ## Como Executar o Projeto
 
-1. Clone este repositório:
-   ```sh
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   ```
-2. Abra o arquivo `index.html` no navegador.
+   Acesse via: [https://github.com/seu-usuario/nome-do-repositorio.git](https://yvasques.github.io/calculator_js/)
 
 ## Melhorias Futuras
 
